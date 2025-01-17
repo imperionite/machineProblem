@@ -2,7 +2,7 @@
 
 Exercise categories are organized into distinct git branches, with each exercise represented by a corresponding Java class file located within the "dsa" package, designated as the main method.
 
-To execute a specific exercise or file, navigate to src > dsa > SampleExercise# and select Run File.
+To execute a specific exercise or file, navigate to `src` > `dsa` > `SampleExercise#` and select **Run File**.
 
 ## Setup
 
@@ -74,3 +74,5 @@ To run each problem separately, you need to set the main class for each file. He
 Now, you can run each problem separately by right-clicking on the corresponding file and selecting "Run File".
 
 Note: You can also use a single main class and use a switch statement or a menu-driven approach to run each problem. However, this approach requires more code and is not shown here. 
+
+[Arrays Exercises](https://github.com/imperionite/machineProblem/tree/arrays)
