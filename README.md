@@ -1,5 +1,11 @@
 # machineProblem
 
+Exercise categories are organized into distinct git branches, with each exercise represented by a corresponding Java class file located within the "dsa" package, designated as the main method.
+
+To execute a specific exercise or file, navigate to src > dsa > SampleExercise# and select Run File.
+
+## Setup
+
 Here's a step-by-step guide to setting up a Java console app in NetBeans for solving multiple DSA problems per file.
 
 **Step 1: Create a new Java project in NetBeans**
