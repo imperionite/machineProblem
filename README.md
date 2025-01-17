@@ -76,3 +76,9 @@ Now, you can run each problem separately by right-clicking on the corresponding 
 Note: You can also use a single main class and use a switch statement or a menu-driven approach to run each problem. However, this approach requires more code and is not shown here. 
 
 [Arrays Exercises](https://github.com/imperionite/machineProblem/tree/arrays)
+
+[Linked List Exercises](https://github.com/imperionite/machineProblem/tree/linkedlist)
+
+[Stack Exercises](https://github.com/imperionite/machineProblem/tree/stacks)
+
+[Queue Exercises](https://github.com/imperionite/machineProblem/tree/queues)
